@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cycle-react/static/css/main.3e7c67e7.chunk.css",
+    "main.js": "/cycle-react/static/js/main.c4ced8f0.chunk.js",
+    "main.js.map": "/cycle-react/static/js/main.c4ced8f0.chunk.js.map",
+    "runtime-main.js": "/cycle-react/static/js/runtime-main.5eb1b91f.js",
+    "runtime-main.js.map": "/cycle-react/static/js/runtime-main.5eb1b91f.js.map",
+    "static/js/2.8b02b0df.chunk.js": "/cycle-react/static/js/2.8b02b0df.chunk.js",
+    "static/js/2.8b02b0df.chunk.js.map": "/cycle-react/static/js/2.8b02b0df.chunk.js.map",
+    "static/js/3.ff3d9691.chunk.js": "/cycle-react/static/js/3.ff3d9691.chunk.js",
+    "static/js/3.ff3d9691.chunk.js.map": "/cycle-react/static/js/3.ff3d9691.chunk.js.map",
+    "index.html": "/cycle-react/index.html",
+    "static/css/main.3e7c67e7.chunk.css.map": "/cycle-react/static/css/main.3e7c67e7.chunk.css.map",
+    "static/js/2.8b02b0df.chunk.js.LICENSE.txt": "/cycle-react/static/js/2.8b02b0df.chunk.js.LICENSE.txt",
+    "static/media/4_product.22186e50.jpg": "/cycle-react/static/media/4_product.22186e50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb1b91f.js",
+    "static/js/2.8b02b0df.chunk.js",
+    "static/css/main.3e7c67e7.chunk.css",
+    "static/js/main.c4ced8f0.chunk.js"
+  ]
+}
