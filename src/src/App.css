@@ -1,0 +1,28 @@
+body {
+  font-family: "Roboto";
+}
+
+.mainDiv {
+  position: relative;
+}
+
+.App {
+  position: relative;
+}
+
+.HeroImg {
+  width: 100vw;
+  height: 50%;
+}
+
+.titleDiv {
+  color: #3e468f;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.titleDiv h3 {
+  text-align: center;
+}
+/*# sourceMappingURL=App.css.map */
